@@ -1,4 +1,4 @@
-// EMPLOYEE MANAGEMENT SYSTEM USING CPP - Sagar Developer
+
 
 //Include All Header files.
 #include <iostream>
